@@ -69,7 +69,7 @@ function CategoriesForm() {
               <div className="mb-3 row form-group">
                 <div className="col-lg-1  "></div>
                 <label className="col-lg-3 control-label">
-                  Nombre de la categoria:{" "}
+                  Nombre de la categorias:{" "}
                 </label>
                 <div className="col-lg-7">
                   <input
